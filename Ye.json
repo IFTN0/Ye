@@ -1,0 +1,51 @@
+{
+  "name": "Ye",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "Roblox",
+      "bundleIdentifier": "com.roblox.robloxmobile.codex",
+      "marketplaceID": "",
+      "developerName": "Codex",
+      "subtitle": "Codex",
+      "localizedDescription": "Codex",
+      "iconURL": "https://i.imgur.com/T2PFdLd.png",
+      "tintColor": "#2672d8",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://download2438.mediafire.com/el91hc92mzigw_c5o43hYgrpMljRS1D7AvuCyyet1y6ceojrg0IFi4ZLDtP0Uw_5WT-yEOdQ2NN6SBLvG0wqjbBj02nBKgRP0vT25wfgyHs54q-AaKMm0WPbqccwtilcta063Rq_YCIT10jWe1YM0_4k5BJ70BBYa-tQmAIBxr_r6Ik/7afzer5xxo1110n/Codex_2.674.782.ipa",
+          "size": 147800000,
+          "version": "2.674.782",
+          "buildVersion": null,
+          "date": "2025-05-29T18:42:00+02:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSCameraUsageDescription": "Roblox uses your camera to animate your avatar with your movement and scan QR codes.",
+          "NSContactsUsageDescription": "Connect with friends on Roblox. Your contacts will be regularly synced and matches with other Roblox users will be stored to help you find friends. You can manage this any time in settings.",
+          "NSHumanReadableCopyright": "2014 ROBLOX Inc.",
+          "NSLocalNetworkUsageDescription": "Roblox needs access to local networks to connect to players around you.",
+          "NSMicrophoneUsageDescription": "Roblox needs access to your microphone for voice chat.",
+          "NSMotionUsageDescription": "Roblox needs access to the accelerometer to enhance your play experience.",
+          "NSPhotoLibraryAddUsageDescription": "Allow Roblox to access your photo library so you can save images and videos to your device's camera roll.",
+          "NSPhotoLibraryUsageDescription": "Roblox needs access to your photos to enhance your play experience."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
